@@ -56,7 +56,11 @@ Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicaci�
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+![image](https://user-images.githubusercontent.com/105570939/170895299-28e2c8d3-2378-4a46-8811-54732fefcb69.png)
+
+![image](https://user-images.githubusercontent.com/105570939/170895312-4346ac5d-b788-4818-9174-8f6c6c91f4ed.png)
+
+![image](https://user-images.githubusercontent.com/105570939/170895344-ea1e010b-055c-41e3-aa5d-f8b331b8f168.png)
 
 5. VIDEO
 
