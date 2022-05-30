@@ -39,6 +39,9 @@ El contenido debe ser desarrollado.
 
 En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
 
+![image](https://user-images.githubusercontent.com/105570939/170896735-0020b67c-1ec5-496a-9324-64e556200d0a.png)
+
+
 Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
 * Diagramas de bloques.
 * Diagramas UML. (casos de uso-clase)
