@@ -28,6 +28,10 @@
 
 ![image](https://user-images.githubusercontent.com/105570939/170895344-ea1e010b-055c-41e3-aa5d-f8b331b8f168.png)
 
+![image](https://user-images.githubusercontent.com/105570939/171110942-25ffed6b-a364-4021-915a-719c8ce5df49.png)
+
+Al calcular el error de uno de los voltajes y uno de las corrientes se aprecia un error muy pequeño, esto nos muestra que si se desea obtener un valor teòrico de un circuito es muy probable que se acerque al valor real, por lo que nos sirve para tener una idea de si el circuito esta bien estructurado antes de armarlo.
+
 5. VIDEO
 
 https://youtu.be/KdGmiH4evDM
