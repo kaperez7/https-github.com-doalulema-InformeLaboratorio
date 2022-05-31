@@ -51,7 +51,8 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 7. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+Las leyes de Kirchhoff (artículo). (s. f.). Khan Academy. Recuperado 24 de mayo de 2022, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+Cáceres, P. S. (2021, 8 noviembre). Leyes de Kirchhoff. Blog de Tecnología - IES José Arencibia Gil - Telde. Recuperado 24 de mayo de 2022, de https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/03/12/leyes-de-kirchhoff/#:%7E:text=Ley%20de%20tensiones%20de%20Kirchhoff&text=La%20ley%20de%20las%20mallas,lazo%20es%20igual%20a%20cero.
 
 
 RUBRICA
