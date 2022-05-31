@@ -42,9 +42,7 @@ Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicaci�
 
 5. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://youtu.be/KdGmiH4evDM
 
 6. CONCLUSIONES
 
