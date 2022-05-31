@@ -3,7 +3,7 @@
 
 1. OBJETIVOS
 
-
+Calcular el voltaje e intensidad de corriente, mediante la aplicacion de la leyes del voltaje y corriente de Kirchhoff, para conocer los valores de un circuito mixto.
 
 2. MARCO TEÓRICO 
 
@@ -38,7 +38,8 @@ https://youtu.be/KdGmiH4evDM
 
 6. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* la ley de Kirchhoff de voltaje explica que la sumatoria de todas las caídas de voltaje de un circuito es igual a la cantidad que posee la fuente de voltaje que utiliza el circuito y la ley de Kirchhoff es similar que al sumar las corrientes de un circuito en paralelo debe dar igual a la corriente total del circuito.
+* Los resultados obtenidos al medir y al calcular con las leyes de kirchhoff son casi similares existe un pequeños error debido a los decimales y aproximaciones con las que se trabajo.
 
 
 7. BIBLIOGRAFÍA
