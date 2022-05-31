@@ -7,17 +7,8 @@
 
 2. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
-
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
-
-El contenido debe ser desarrollado.
+![image](https://user-images.githubusercontent.com/105679480/171072520-ef2ed1a8-2ed7-4f19-a229-5546cd3c5952.png)
+![image](https://user-images.githubusercontent.com/105679480/171072605-34a3a902-a765-4135-b9e9-f79cde9c16bc.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
