@@ -5,6 +5,10 @@
 
 Calcular el voltaje e intensidad de corriente, mediante la aplicacion de la leyes del voltaje y corriente de Kirchhoff, para conocer los valores de un circuito mixto.
 
+* Definir la ley de voltaje y corriente de kirchhoff.
+* Comparar los datos teóricos y medidos del circuito.
+
+
 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/105679480/171072520-ef2ed1a8-2ed7-4f19-a229-5546cd3c5952.png)
