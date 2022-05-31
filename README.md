@@ -12,13 +12,13 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-![WhatsApp Image 2022-05-30 at 9 40 35 PM](https://user-images.githubusercontent.com/105570939/171082333-5b0c0f34-20f5-4222-a470-367b72cb84e7.jpeg)
+![image](https://user-images.githubusercontent.com/105570939/171085735-eb97f498-a640-49e5-99d5-741bb3437842.png)
 
-![WhatsApp Image 2022-05-26 at 12 50 52 PM](https://user-images.githubusercontent.com/105570939/171082364-45ef4eed-5307-4c4a-9f8a-397927ce2c62.jpeg)
+![image](https://user-images.githubusercontent.com/105570939/171085831-bcdcd43d-190d-42ee-b44f-6d54dfe148b3.png)
 
 ![image](https://user-images.githubusercontent.com/105570939/170896735-0020b67c-1ec5-496a-9324-64e556200d0a.png)
 
-![WhatsApp Image 2022-05-30 at 9 41 57 PM](https://user-images.githubusercontent.com/105570939/171082474-ee5aefdc-443c-461e-842e-f6843c99c51e.jpeg)
+![image](https://user-images.githubusercontent.com/105570939/171085875-f656b47f-0b62-4747-8e4f-4dbe38b67a3f.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
