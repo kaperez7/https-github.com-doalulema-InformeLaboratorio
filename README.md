@@ -7,6 +7,7 @@ Calcular el voltaje e intensidad de corriente, mediante la aplicacion de la leye
 
 * Definir la ley de voltaje y corriente de kirchhoff.
 * Comparar los datos teóricos y medidos del circuito.
+* Analizar e identificar los nodos en los que el voltaje será diferente al de la fuente.
 
 
 2. MARCO TEÓRICO 
@@ -44,7 +45,7 @@ https://youtu.be/KdGmiH4evDM
 
 * la ley de Kirchhoff de voltaje explica que la sumatoria de todas las caídas de voltaje de un circuito es igual a la cantidad que posee la fuente de voltaje que utiliza el circuito y la ley de Kirchhoff es similar que al sumar las corrientes de un circuito en paralelo debe dar igual a la corriente total del circuito.
 * Los resultados obtenidos al medir y al calcular con las leyes de kirchhoff son casi similares existe un pequeños error debido a los decimales y aproximaciones con las que se trabajo.
-
+* El voltaje de un elemento en un circuito será la diferencia de tensión entre los nodos a los que se conecta el elemento.
 
 7. BIBLIOGRAFÍA
 
